@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.page-header {
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+.country, .team {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.country-name, .team-name {
+    color: #333;
+    font-weight: 700;
+}
+
+.country-info, .team-info {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+strong {
+    color: #007bff;
+}
